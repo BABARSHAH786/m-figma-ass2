@@ -1,5 +1,4 @@
 export default function NavBar(){
-  throw new Error('Product page not found')
 
   return (
     

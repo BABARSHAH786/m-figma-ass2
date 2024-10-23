@@ -37,7 +37,8 @@ export default async function NavBar(){
 
   {/* <!-- Team Section --> */}
   <section className="container mx-auto py-16 px-4">
-    <h2 className="text-3xl font-bold text-center mb-8">Meet Our Team</h2>
+    <h2 className="border-red-400 bg-blue-500 " >Tailwind Css</h2>
+    <h2 className=" border-yellow-500 text-3xl font-bold text-center mb-8">Meet Our Team</h2>
     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
       <div className="bg-white shadow-lg rounded-lg p-6 text-center">
         {/* <img src="https://via.placeholder.com/150" alt="Team Member" className="w-24 h-24 rounded-full mx-auto mb-4"> */}
